@@ -68,7 +68,7 @@
  <distributionManagement>
     <snapshotRepository>
       <id>maven-snapshots</id>
-      <url>http://3.25.194.26:8081/repository/maven-snapshots/</url>
+      <url>http://3.24.208.161:8081/repository/ajay-snapshot/</url>
     </snapshotRepository>
  </distributionManagement>
 
