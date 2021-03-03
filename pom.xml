@@ -67,8 +67,8 @@
   </build>
  <distributionManagement>
     <snapshotRepository>
-      <id>maven-snapshots</id>
-      <url>http://3.24.208.161:8081/repository/calceweb-snapshot/</url>
+      <id>ajay-snapshot</id>
+      <url>http://3.24.208.161:8081/repository/ajay-snapshot/</url>
     </snapshotRepository>
  </distributionManagement>
 
