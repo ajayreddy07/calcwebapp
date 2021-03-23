@@ -67,7 +67,7 @@
   </build>
  <distributionManagement>
     <snapshotRepository>
-      <id>ajay-snapshot</id>
+      <id>ajay-snapshots</id>
       <url>http://18.176.57.61:8081/repository/ajay-snapshots/</url>
     </snapshotRepository>
  </distributionManagement>
