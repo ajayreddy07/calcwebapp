@@ -67,8 +67,8 @@
   </build>
  <distributionManagement>
     <snapshotRepository>
-      <id>ajay-snapshots</id>
-      <url>http://3.112.241.14:8081/repository/ajay-snapshots/</url>
+      <id>maven-host</id>
+      <url>http://52.194.220.19:8081/repository/maven-host/</url>
     </snapshotRepository>
  </distributionManagement>
 
